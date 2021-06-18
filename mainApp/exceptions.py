@@ -1,0 +1,2 @@
+class InvalidFeedLink(Exception):
+    pass
